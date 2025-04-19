@@ -58,7 +58,8 @@ python encrypt_decrypt_tool.py decrypt secret.encrypted --output_file secret_dec
 
 ## 📽 Preview
 
-[![Encrypt Decrypt Tool Preview](https://github.com/4-krishna/File-encryption-decryption-tool/assets/168671541/6a208c39-d56c-4ef8-aa74-29ebf5bf864a)](https://github.com/4-krishna/File-encryption-decryption-tool/assets/168671541/6a208c39-d56c-4ef8-aa74-29ebf5bf864a)
+[![Encrypt Decrypt Tool Preview]
+(https://github.com/4-krishna/File-encryption-decryption-tool/assets/168671541/6a208c39-d56c-4ef8-aa74-29ebf5bf864a)](https://github.com/4-krishna/File-encryption-decryption-tool/assets/168671541/6a208c39-d56c-4ef8-aa74-29ebf5bf864a)
 
 ---
 
